@@ -11,13 +11,13 @@ img {
   max-width: 100%;
 }
 .before {
-  background-color: #ccc;
+  background: linear-gradient(to left, #ddd, #a3c2c2);
 }
 .during {
-  background-color: #ddd;
+  background: linear-gradient(to right, #ddd, #a3c2c2 80%);
 }
 .after {
-  background-color: #bbb;
+  background: linear-gradient(to left, #ddd, #a3c2c2 80%);
 }
 .intro {
   width: 50%;
